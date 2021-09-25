@@ -118,8 +118,8 @@ const educationInfo = {
       duration: "June 2017 - Nov 2020",
       desc: "Actively participated in various events:",
       descBullets: [
-        "2017 | Participated in fest organised by V.C. Puttur.",
-        "2018 | Participated in fest organised by Don Bosco, Angadikadavu, Kerala."
+        "2018 | Participated in fest organised by V.C. Puttur.",
+        "2019 | Participated in fest organised by Don Bosco, Angadikadavu, Kerala."
       ]
     },
     {
@@ -188,12 +188,19 @@ const workExperiences = {
        
       ]
     },
+    // {
+    //   role: "Full Stack Developer",
+    //   company: "ProjectRideShare",
+    //   companylogo: require("./assets/images/RideShareLogo.png"),
+    //   date: "2020-2021",
+    //   desc: "This is the fun project created by me and two other friends. This project was created to replicate the popular ride sharing apps like Ola and Uber and then combine the best functionality of both app with Rapido. Due to lack of resource and funding this project was paused. (or dropped may be 😂)"
+    // },
     {
-      role: "Full Stack Developer",
-      company: "ProjectRideShare",
-      companylogo: require("./assets/images/RideShareLogo.png"),
-      date: "2020-2021",
-      desc: "This is the fun project created by me and two other friends. This project was created to replicate the popular ride sharing apps like Ola and Uber and then combine the best functionality of both app with Rapido. Due to lack of resource and funding this project was paused. (or dropped may be 😂)"
+       role: "Full Stack Developer",
+       company: "ChatsApp",
+       companylogo: require("./assets/images/ChatsApp.png"),
+       date: "2021",
+       desc: "This is private chatting application with real end-to-end encryption and basic features like send medias and documents and also typing and seen status indicator. This is developed keeping user privacy as priority, rather than throwing some random new privacy & policy like tech giants which raised concern among many"
     }
   ]
 };
@@ -256,7 +263,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "url"
+          url: "https://drive.google.com/file/d/1Au3Eom27imMzQYTK9zz21cTL1ABZgtB1/view?usp=sharing"
         },
        /* {
           name: "Award Letter",
@@ -276,7 +283,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certificate",
-          url: ""
+          url: "https://drive.google.com/file/d/1r4J-qOAx7qIM1Uu4R3awhWzzfnlx4pUd/view?usp=sharing"
         }
       ]
     }, 
@@ -288,7 +295,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification", 
-          url: ""
+          url: "https://drive.google.com/file/d/1MyiV1rfuRBA0-oiHgdgnP1yVP52_9i0L/view?usp=sharing"
         }
       ]
     } 
