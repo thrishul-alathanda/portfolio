@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54a8021d9d3e3278e7894d67d6b238a4",
+    "revision": "60389f19f1a0b3277e07a20abbd35928",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "3ad695c60b88206c9b05",
+    "revision": "2b62738fe72624d9e40e",
     "url": "/static/css/main.fc5d9386.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.7b73e01d.chunk.js"
   },
   {
-    "revision": "3ad695c60b88206c9b05",
-    "url": "/static/js/main.d56e4d94.chunk.js"
+    "revision": "2b62738fe72624d9e40e",
+    "url": "/static/js/main.480a4ec7.chunk.js"
   },
   {
     "revision": "40fd217471f50ecc2606",
@@ -74,10 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b8c25091cfa350a14a962e74567c473b",
     "url": "/static/media/PS.b8c25091.png"
-  },
-  {
-    "revision": "1e2530457a0f0756d5dc65b6e30785eb",
-    "url": "/static/media/RideShareLogo.1e253045.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
