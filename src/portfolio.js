@@ -200,16 +200,18 @@ const workExperiences = {
        company: "ChatsApp",
        companylogo: require("./assets/images/ChatsApp.png"),
        date: "2021",
-       desc: "This is private chatting application with real end-to-end encryption and basic features like send medias and documents and also typing and seen status indicator. This is developed keeping user privacy as priority, rather than throwing some random new privacy & policy like tech giants which raised concern among many"
+       desc: "This is private chatting application with real end-to-end encryption and basic features like send medias, documents and also typing & seen status indicator. This is developed keeping user privacy as priority, rather than throwing some random new privacy & policy like tech giants which raised concern among many"
     }
   ]
+  
 };
+
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+  showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
   display: false // Set false to hide this section, defaults to true
 };
 
@@ -262,17 +264,9 @@ const achievementSection = {
       image: require("./assets/images/GoogleDU.webp"),
       footerLink: [
         {
-          name: "Certification",
+          name: "Certificate",
           url: "https://drive.google.com/file/d/1Au3Eom27imMzQYTK9zz21cTL1ABZgtB1/view?usp=sharing"
         },
-       /* {
-          name: "Award Letter",
-          url: ""
-        },
-        {
-          name: "Google Code-in Blog",
-          url: ""
-        } */
       ]
     },
     {
@@ -294,7 +288,7 @@ const achievementSection = {
       image: require("./assets/images/PS.png"),
       footerLink: [
         {
-          name: "Certification", 
+          name: "Certificate", 
           url: "https://drive.google.com/file/d/1MyiV1rfuRBA0-oiHgdgnP1yVP52_9i0L/view?usp=sharing"
         }
       ]
