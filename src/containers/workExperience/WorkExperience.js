@@ -4,6 +4,7 @@ import ExperienceCard from "../../components/experienceCard/ExperienceCard";
 import {workExperiences} from "../../portfolio";
 import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
+import Button from "../../components/button/Button";
 
 export default function WorkExperience() {
   const {isDark} = useContext(StyleContext);
@@ -34,6 +35,12 @@ export default function WorkExperience() {
               </div>
             </div>
           </div>
+          <Button
+            text={"All Projects"}
+            className="project-button"
+            href="https://github.com/thrishul-alathanda?tab=repositories"
+            newTab={true}
+          />
         </Fade>
       </div>
     );

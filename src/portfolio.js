@@ -200,7 +200,7 @@ const workExperiences = {
        company: "ChatsApp",
        companylogo: require("./assets/images/ChatsApp.png"),
        date: "2021",
-       desc: "This is private chatting application with real end-to-end encryption and basic features like send medias, documents and also typing & seen status indicator. This is developed keeping user privacy as priority, rather than throwing some random new privacy & policy like tech giants which raised concern among many"
+       desc: "This is private chatting application with real end-to-end encryption and basic features like send medias, documents and also typing and seen status indicator. This is developed keeping user privacy as priority, rather than throwing some random new privacy & policy like tech giants which raised concern among many"
     }
   ]
   
