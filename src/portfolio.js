@@ -29,7 +29,6 @@ const socialMediaLinks = {
   facebook: "https://www.facebook.com/thrishul.alathanda",
   instagram: "https://instagram.com/thrishul_alathanda",
   stackoverflow: "https://stackoverflow.com/users/13155901/thrishul-alathanda",
-  // Instagram and Twitter are also supported in the links!
   display: true 
 };
 
