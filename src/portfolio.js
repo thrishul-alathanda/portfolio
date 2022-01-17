@@ -57,10 +57,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-   /* {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    }, */
+    {
+      skillName: "Java",
+      fontAwesomeClassname: "fab fa-java"
+    }, 
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
